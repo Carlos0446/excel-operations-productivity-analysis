@@ -1,4 +1,5 @@
-📊 Operations KPI Dashboard (Excel)
+# Excel Operations Productivity Dashboard
+
 
 This project analyzes departmental labor costs and productivity metrics using Microsoft Excel. The goal was to transform operational data into a clear, executive-style dashboard that highlights performance trends and potential areas for improvement.
 
